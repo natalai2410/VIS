@@ -69,3 +69,9 @@
    background: #174044;
    margin: 0 auto;
 }
+
+
+.page {
+   transform: scale(0.75);
+   margin: 0 auto;
+}
