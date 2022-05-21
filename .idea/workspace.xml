@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="273efc09-b4a3-4de2-bd86-426d0fb2928c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__content/header__content.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__content/header__content.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/menu/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/menu/menu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/weight/weight.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/weight/weight.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lots-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/lots-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/packs-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weight-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/weight-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weight-page_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/weight-page_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652981773683</updated>
       <workItem from="1652981778441" duration="13351000" />
-      <workItem from="1653154438638" duration="2724000" />
+      <workItem from="1653154438638" duration="3473000" />
     </task>
     <servers />
   </component>
