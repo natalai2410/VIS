@@ -1,0 +1,21 @@
+.header__content {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding-top: 28px;
+	padding-bottom: 28px;
+	color: white;
+}
+
+.logo {
+	height: 45px;
+	object-fit: cover;
+	margin-left: 28px;
+}
+
+.arrow {
+	height: 90px;
+	width: 90px;
+	object-fit: cover;
+	margin: auto 0;
+}
