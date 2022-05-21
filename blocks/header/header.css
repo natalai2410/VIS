@@ -13,7 +13,8 @@
 
 .header__item {
    display: flex;
-   margin-right: 28px;
+   height: 100%;
+   /*margin-right: 28px;*/
 }
 
 .header__username-image{
@@ -58,4 +59,12 @@
 
    /*padding-left: 28px;*/
    /*padding-right: 28px;*/
+}
+
+
+.footer {
+   /*width: 100%;*/
+   width: 1280px;
+   background: #174044;
+   margin: 0 auto;
 }

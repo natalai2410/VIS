@@ -56,6 +56,7 @@
 	margin-left: 28px;
 	margin-right: 28px;
 	text-align: center;
+	text-decoration: none;
 }
 
 
@@ -88,5 +89,36 @@
 	justify-content: center;
 	/*padding-top: 28px;*/
 	/*margin-bottom: 28px;*/
-	border:1px solid red;
+
+}
+
+
+.main__button-menu{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.weight__btn-common-2 {
+	height: 125px;
+	width: 600px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius: 10px;
+	/*background-color:  #174044;;*/
+
+	background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+	linear-gradient(277.87deg, #174044 -14.74%, #2DA798 77.18%);
+	margin: 14px;
+	border: 1px solid black;
+}
+
+.weight__btn-common-2_inactive {
+	opacity: 0.2;
 }
